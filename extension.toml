@@ -1,0 +1,7 @@
+id = "redot-dark-theme"
+name = "Redot dark theme"
+version = "0.1.1"
+schema_version = 1
+authors = ["Joey Wheeler <joey_wheeler99@proton.me>"]
+description = "A dark theme inspired by the Redot Engine"
+repository = "https://github.com/joey-wheeler99/redot-dark"
