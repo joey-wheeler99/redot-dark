@@ -30,7 +30,7 @@
         "text.muted": "#e0e0e0",
         "text.placeholder": "#888888",
         "text.disabled": "#666666",
-        "text.accent": "#478cbf",
+        "text.accent": "#66c0f4",
         "icon": "#bdbdbd",
         "icon.muted": "#8e8e8e",
         "icon.disabled": "#666666",
@@ -45,6 +45,7 @@
         "tab.active_border": "#00000000",
         "tab.inactive_border": "#00000000",
         "search.match_background": "#3c587f",
+        "search.match_foreground": "#ffffff",
         "panel.background": "#292929",
         "panel.focused_border": "#478cbf",
         "pane.focused_border": "#478cbf",
@@ -312,7 +313,7 @@
             "font_style": null,
             "font_weight": null
           },
-          "string.special": {
+            "string.special": {
             "color": "#ffeda1",
             "font_style": null,
             "font_weight": null
